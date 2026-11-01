@@ -1,0 +1,30 @@
+# Compiled output
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.so
+*.dSYM/
+expense_tracker
+et
+
+# Runtime data created by the program (never commit real user data or credentials)
+users.txt
+expenses_*.txt
+
+# IDE / editor
+.vscode/
+.idea/
+*.code-workspace
+*.sublime-*
+*.cbp
+*.layout
+*.depend
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Office temp files
+~$*.pptx
