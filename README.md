@@ -193,7 +193,7 @@ Found during code review (see the project's final review notes):
 The accompanying presentation is in [`docs/Expense_Tracker_Presentation.pptx`](docs/Expense_Tracker_Presentation.pptx).
 
 ## Author
-**kartik** - GitHub: [@kartik95108](https://github.com/kartik95108)
+**kartik saini** - GitHub: [@kartiksaini95108](https://github.com/kartiksaini95108)
 
 ## License
 License to be added after the author confirms the intended choice. Until then, all
